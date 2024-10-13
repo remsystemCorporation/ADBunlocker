@@ -57,7 +57,7 @@ Este script está diseñado específicamente para teléfonos de **Telcel** adqui
 1. **Clona este repositorio**:
 
    ```bash
-   git clone https://github.com/tuusuario/ADBUnlocker.git
+   https://github.com/remsystemCorporation/ADBunlocker.git
    cd ADBUnlocker
    pip install -r requirements.txt
    python main.py
